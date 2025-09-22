@@ -1,0 +1,17 @@
+Data
+	Item	Qty	Price	Total	Date
+	Widget	3	9.99		2024-01-15
+	Gadget	5	2.5		2023-06-30
+	Thingamajig	1	199.95		2025-09-22
+			Grand Total	
+	Merged cell example
+	Apache Tika
+
+https://tika.apache.org/
+Unicode
+	Language	Sample
+	Chinese	ä½ å¥½ï¼ä¸ç
+	Russian	ÐÑÐ¸Ð²ÐµÑ, Ð¼Ð¸Ñ
+	Emoji	ððð
+
+

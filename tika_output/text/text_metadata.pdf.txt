@@ -1,0 +1,8 @@
+
+Tika PDF: Text & Metadata
+
+This PDF contains plain text and document metadata.
+Use it to test Tika's /tika or /meta endpoints.
+ASCII-only text to avoid font issues.
+
+

@@ -1,0 +1,6 @@
+image_table.pdf	application/pdf
+logo.png	image/png
+sample.csv	text/plain
+sample.docx	application/vnd.openxmlformats-officedocument.wordprocessingml.document
+sample.xlsx	application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+text_metadata.pdf	application/pdf

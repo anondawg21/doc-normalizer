@@ -1,0 +1,22 @@
+{
+  "dc:description": "Workbook with data, formulas, dates, hyperlink, and merged cells.",
+  "extended-properties:AppVersion": "3.1",
+  "extended-properties:Application": "Microsoft Excel Compatible / Openpyxl 3.1.5",
+  "X-TIKA:Parsed-By-Full-Set": [
+    "org.apache.tika.parser.DefaultParser",
+    "org.apache.tika.parser.microsoft.ooxml.OOXMLParser"
+  ],
+  "dc:creator": "Tika Samples",
+  "dcterms:created": "2025-09-22T19:46:10Z",
+  "language": "en",
+  "dcterms:modified": "2025-09-22T19:46:10Z",
+  "protected": "false",
+  "X-TIKA:Parsed-By": [
+    "org.apache.tika.parser.DefaultParser",
+    "org.apache.tika.parser.microsoft.ooxml.OOXMLParser"
+  ],
+  "dc:title": "Tika XLSX Sample",
+  "extended-properties:DocSecurityString": "None",
+  "Content-Length": "6250",
+  "Content-Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+}

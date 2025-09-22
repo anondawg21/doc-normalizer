@@ -1,0 +1,27 @@
+[
+  {
+    "dc:description": "Workbook with data, formulas, dates, hyperlink, and merged cells.",
+    "extended-properties:AppVersion": "3.1",
+    "extended-properties:Application": "Microsoft Excel Compatible / Openpyxl 3.1.5",
+    "X-TIKA:Parsed-By-Full-Set": [
+      "org.apache.tika.parser.DefaultParser",
+      "org.apache.tika.parser.microsoft.ooxml.OOXMLParser"
+    ],
+    "X-TIKA:content_handler": "ToXMLContentHandler",
+    "dc:creator": "Tika Samples",
+    "dcterms:created": "2025-09-22T19:46:10Z",
+    "dcterms:modified": "2025-09-22T19:46:10Z",
+    "protected": "false",
+    "X-TIKA:Parsed-By": [
+      "org.apache.tika.parser.DefaultParser",
+      "org.apache.tika.parser.microsoft.ooxml.OOXMLParser"
+    ],
+    "dc:title": "Tika XLSX Sample",
+    "extended-properties:DocSecurityString": "None",
+    "X-TIKA:parse_time_millis": "21",
+    "X-TIKA:embedded_depth": "0",
+    "X-TIKA:content": "<html xmlns=\"http://www.w3.org/1999/xhtml\">\n<head>\n<meta name=\"dc:description\" content=\"Workbook with data, formulas, dates, hyperlink, and merged cells.\" />\n<meta name=\"extended-properties:AppVersion\" content=\"3.1\" />\n<meta name=\"protected\" content=\"false\" />\n<meta name=\"extended-properties:Application\" content=\"Microsoft Excel Compatible / Openpyxl 3.1.5\" />\n<meta name=\"X-TIKA:Parsed-By\" content=\"org.apache.tika.parser.DefaultParser\" />\n<meta name=\"X-TIKA:Parsed-By\" content=\"org.apache.tika.parser.microsoft.ooxml.OOXMLParser\" />\n<meta name=\"dc:title\" content=\"Tika XLSX Sample\" />\n<meta name=\"extended-properties:DocSecurityString\" content=\"None\" />\n<meta name=\"dc:creator\" content=\"Tika Samples\" />\n<meta name=\"dcterms:created\" content=\"2025-09-22T19:46:10Z\" />\n<meta name=\"dcterms:modified\" content=\"2025-09-22T19:46:10Z\" />\n<meta name=\"Content-Length\" content=\"6250\" />\n<meta name=\"Content-Type\" content=\"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet\" />\n<title>Tika XLSX Sample</title>\n</head>\n<body><div class=\"sheet\"><h1>Data</h1>\n<table><tbody><tr>\t<td>Item</td>\t<td>Qty</td>\t<td>Price</td>\t<td>Total</td>\t<td>Date</td></tr>\n<tr>\t<td>Widget</td>\t<td>3</td>\t<td>9.99</td>\t<td />\t<td>2024-01-15</td></tr>\n<tr>\t<td>Gadget</td>\t<td>5</td>\t<td>2.5</td>\t<td />\t<td>2023-06-30</td></tr>\n<tr>\t<td>Thingamajig</td>\t<td>1</td>\t<td>199.95</td>\t<td />\t<td>2025-09-22</td></tr>\n<tr>\t<td />\t<td />\t<td>Grand Total</td>\t<td /></tr>\n<tr>\t<td>Merged cell example</td></tr>\n<tr>\t<td>Apache Tika</td></tr>\n</tbody></table>\n<a href=\"https://tika.apache.org/\">https://tika.apache.org/</a></div>\n<div class=\"sheet\"><h1>Unicode</h1>\n<table><tbody><tr>\t<td>Language</td>\t<td>Sample</td></tr>\n<tr>\t<td>Chinese</td>\t<td>你好，世界</td></tr>\n<tr>\t<td>Russian</td>\t<td>Привет, мир</td></tr>\n<tr>\t<td>Emoji</td>\t<td>😀🚀📄</td></tr>\n</tbody></table>\n</div>\n</body></html>",
+    "Content-Length": "6250",
+    "Content-Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+  }
+]
